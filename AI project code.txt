@@ -1,0 +1,147 @@
+<DOCTYPE html>
+<html>
+<head>
+<tittle>Images</tittle>
+</head>
+<body>
+<p>Applications of Artificial Intelligence in Agriculture  </p>
+<img src="https://static.javatpoint.com/tutorial/ai/images/artificial-intelligence-in-agriculture2.png"alt="Google Photo"/>
+</body>
+</html>
+
+
+<DOCTYPE html>
+<html>
+<head>
+<tittle>Images</tittle>
+</head>
+<body>
+<p>Seeding and Spraying Robots</p>
+<img src="https://howtorobot.com/sites/default/files/inline-images/spraying%20aerial%20drones%20fly%20low%20over%20field%20of%20crops.jpg"alt="Google Photo"/>
+</body>
+</html>
+
+
+<DOCTYPE html>
+<html>
+<head>
+<tittle>Images</tittle>
+</head>
+<body>
+<p>Robots used in agriculture for sowing and planting</p>
+<img src="https://www.mdpi.com/robotics/robotics-10-00052/article_deploy/html/images/robotics-10-00052-g004-550.jpg"alt="Google Photo"/>
+</body>
+</html>
+
+
+
+
+<DOCTYPE html>
+<html>
+<head>
+<tittle>Images</tittle>
+</head>
+<body>
+<p>Robots are used in agriculture for plant treatment</p>
+<img src="https://encyclopedia.pub/media/item_content/202104/robotics1000052g006-607cf24ae999d.png"alt="Google Photo"/>
+</body>
+</html>
+
+
+<DOCTYPE html>
+<html>
+<head>
+<tittle>Images</tittle>
+</head>
+<body>
+<p>Applications of Artificial Intelligence in Agriculture</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nsnpEmr1q_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<img  src="https://www.javatpoint.com/artificial-intelligence-in-agriculture"  alt="Youtube Video"/>
+</body>
+</html>
+
+
+<DOCTYPE html>
+<html>
+<head>
+<tittle>Images</tittle>
+</head>
+<body>
+<p> Types of maturity</p>
+<img src="https://ars.els-cdn.com/content/image/3-s2.0-B9780128098073000020-f02-02-9780128098073.jpg"alt="Google Photo"/>
+</body>
+</html>
+
+<DOCTYPE html>
+<html>
+<head>
+<tittle>Images</tittle>
+</head>
+<body>
+<p>Measures of maturity of fruits and vegetables</p>
+<img src="https://agriculturistmusa.com/wp-content/uploads/2020/03/Maturity-of-fruits-and-vegetables.png"alt="Google Photo"/>
+</body>
+</html>
+
+<DOCTYPE html>
+<html>
+<head>
+<tittle>Images</tittle>
+</head>
+<body>
+<p>Artificial seed storage approaches </p>
+<img src="https://www.mdpi.com/agronomy/agronomy-07-00071/article_deploy/html/images/agronomy-07-00071-g003-550.jpg"alt="Google Photo"/>
+</body>
+</html>
+
+
+
+<DOCTYPE html>
+<html>
+<head>
+<tittle>Images</tittle>
+</head>
+<body>
+<p>Artificial Seed Concept </p>
+<img src="https://www.mdpi.com/agronomy/agronomy-07-00071/article_deploy/html/images/agronomy-07-00071-g002-550.jpg"alt="Google Photo"/>
+</body>
+</html>
+
+
+<DOCTYPE html>
+<html>
+<head>
+<tittle>Images</tittle>
+</head>
+<body>
+<p>The Future Farming Technology </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jlUKdPOWaf4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>" 
+</body>
+</html>
+
+
+<DOCTYPE html>
+<html>
+<head>
+<tittle>Images</tittle>
+</head>
+<body>
+<p>Map of Technologies and Maturity </p>
+<img src="https://www.oliverwyman.com/content/dam/oliver-wyman/v2/publications/2018/February/Exhibit-agriculture.jpg"alt="Google Photo"/>
+</body>
+</html>
+
+<DOCTYPE html>
+<html>
+<head>
+<tittle>Images</tittle>
+</head>
+<body>
+<p>Area Production of Yields And Crops  </p>
+<img src="https://indiancompanies.in/wp-content/uploads/2019/11/IMG_20191117_235554_compress8.jpg"alt="Google Photo"/>
+</body>
+</html>
+
+
+
+
